@@ -1,0 +1,14 @@
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\bin\Debug\net8.0\ConsoleApp.Additional.exe
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\bin\Debug\net8.0\ConsoleApp.Additional.deps.json
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\bin\Debug\net8.0\ConsoleApp.Additional.runtimeconfig.json
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\bin\Debug\net8.0\ConsoleApp.Additional.dll
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\bin\Debug\net8.0\ConsoleApp.Additional.pdb
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.AssemblyInfoInputs.cache
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.AssemblyInfo.cs
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.csproj.CoreCompileInputs.cache
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.dll
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\refint\ConsoleApp.Additional.dll
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.pdb
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ConsoleApp.Additional.genruntimeconfig.cache
+C:\Users\gidon\dotnet project\ConsoleApp.Additional\obj\Debug\net8.0\ref\ConsoleApp.Additional.dll
